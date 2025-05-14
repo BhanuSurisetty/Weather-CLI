@@ -20,11 +20,10 @@ A simple command-line Python application to fetch and display current weather in
 ## 🚀 How to Run
 
 ### 1. Clone this Repository
-```bash
+
 git clone https://github.com/BhanuSurisetty/Weather-CLI.git
 cd weather-cli
 
----
 
 ### 2. Install Dependencies
 
