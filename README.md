@@ -24,11 +24,22 @@ A simple command-line Python application to fetch and display current weather in
 git clone https://github.com/BhanuSurisetty/Weather-CLI.git
 cd weather-cli
 
-### 2. Install Dependencies
-'''bash
+2. Install Dependencies
 pip install requests colorama
 
-### 3. Set Your OpenWeatherMap API Key
+3. Set Your OpenWeatherMap API Key
 Open weather.py and replace:
-'''python 
 API_KEY = "your_actual_api_key_here"
+
+4. Run the App
+python weather.py
+
+📂 File Structure
+weather-cli/
+├── weather.py         # Main app
+├── history.json       # Auto-created to store search history
+└── README.md          # You're reading it!
+
+
+
+
